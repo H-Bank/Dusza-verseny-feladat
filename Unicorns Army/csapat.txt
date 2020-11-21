@@ -1,0 +1,23 @@
+Csapat név:
+Unicorn's Army
+
+Programozási nyelv:
+C# 2019
+
+Iskola neve:
+Budapesti Komplex Szakképzési Centrum
+Weiss Manfréd Technikum, Szakképző Iskola és Kollégium
+
+Címe:
+1211 Budapest, Tanműhely köz 7.
+
+Versenyzők nevei:
+Herczeg Dorina
+Szabó Dániel
+Horváth Bánk
+
+Évfolyam:
+13
+
+Felkészítő tanárunk:
+Englert Ervin Brunó

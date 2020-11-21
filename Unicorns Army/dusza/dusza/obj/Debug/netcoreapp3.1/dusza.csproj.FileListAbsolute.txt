@@ -1,0 +1,11 @@
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\bin\Debug\netcoreapp3.1\dusza.exe
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\bin\Debug\netcoreapp3.1\dusza.deps.json
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\bin\Debug\netcoreapp3.1\dusza.runtimeconfig.json
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\bin\Debug\netcoreapp3.1\dusza.runtimeconfig.dev.json
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\bin\Debug\netcoreapp3.1\dusza.dll
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\bin\Debug\netcoreapp3.1\dusza.pdb
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\obj\Debug\netcoreapp3.1\dusza.csprojAssemblyReference.cache
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\obj\Debug\netcoreapp3.1\dusza.AssemblyInfoInputs.cache
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\obj\Debug\netcoreapp3.1\dusza.AssemblyInfo.cs
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\obj\Debug\netcoreapp3.1\dusza.dll
+D:\_OKJ ONLINE\Verseny\Unicorns Army\dusza\dusza\obj\Debug\netcoreapp3.1\dusza.pdb
